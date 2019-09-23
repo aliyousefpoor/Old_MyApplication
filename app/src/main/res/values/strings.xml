@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nozhian">
+        آبشار نوژیان با ۹۸ متر ارتفاع بلندترین آبشار ایران است و به همین دلیل این آبشار به آنجل ایران معروف است.
+    </string>
+    <string name="kogan">
+         غار کوگان در ۴۵ کیلومتری جنوب خرم‌آباد و در شرق شهرستان پل‌دختر قرار دارد. این غار به وسیله انسان و در دوره اشکانیان ایجاد شده است. غار در دو طبقه ساخته شده که ارتفاع طبقه دوم نسبت به طبقه اول ۳٫۴ متر است. مساحت کل غار حدود ۲۸۱ متر و دهانه ورودی آن در اندازه ۲٫۵۰ در ۲٫۲۰ متر است. در فضای داخلی غار مخازن آب ساخته شده و در طبقه دوم چهار اتاق که به یکدیگر راه دارند ساخته شده است این اثر تاریخی به شماره ۲۶۶۰ در فهرست آثار ملی ایران به ثبت رسیده است
+    </string>
+    <string name="bio">
+    بیوگرافی حسن یزدانی
+
+در سال۲۰۱۴  قهرمان کشتی جوانان جهان در زاگرب کرواسی شد و در همان سال در لیگ برتر جایزه بزرگ کشتی ایران توانست ختاگ تسابلوف قهرمان وزن ۷۰ کیلوگرم جهان از روسیه را شکست دهد. او در مسابقات جام جهانی ۲۰۱۵ لس آنجلس تنها کشتی‌گیر وزن ۷۰ کیلوگرم عضو تیم ملی بود و توانست تمامی رقبای خود را شکست دهد و به همراه سایر ملی پوشان قهرمان جام جهانی کشتی شوند.حسن یزدانی پسر عموی رضا یزدانی (کشتی‌گیر) است.
+    </string>
+
+
+    <string name="menu">Menu</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_hot_deals">Hot deals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="cart_fragment">Cart Fragment</string>
+    <string name="hot_deals_fragment">Hot Deals Fragment</string>
+
+</resources>

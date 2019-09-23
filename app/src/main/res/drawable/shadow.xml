@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <layer-list>
+            <!-- سایه -->
+            <item>
+                <shape>
+                    <solid android:color="#5B0C08"/>
+                    <corners android:radius="50dp"/>
+                </shape>
+            </item>
+            <!-- نمایش حالت اولیه دکمه -->
+            <item android:bottom="5px">
+                <shape>
+                    <padding
+                        android:left="0dp"
+                        android:top="0dp"
+                        android:right="0dp"
+                        android:bottom="0dp"
+                        />
+                    <size
+                        android:width="200dp"
+                        android:height="60dp"
+                        />
+                    <gradient
+                        android:startColor="#E5535D"
+                        android:endColor="#5B0C08"
+                        android:angle="270" />
+                    <corners
+                        android:radius="50dp"/>
+                    <padding
+                        android:left="0dp"
+                        android:top="0dp"
+                        android:right="0dp"
+                        android:bottom="0dp"
+                        />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:state_pressed="true">
+        <layer-list>
+            <!-- سایه -->
+            <item>
+                <shape>
+                    <solid android:color="#5B0C08"/>
+                    <corners android:radius="50dp"/>
+                </shape>
+            </item>
+            <!-- نمایش بعد از کلیک -->
+            <item android:bottom="0dp">
+                <shape>
+                    <padding
+                        android:left="0dp"
+                        android:top="0dp"
+                        android:right="0dp"
+                        android:bottom="0dp"
+                        />
+                    <size
+                        android:width="200dp"
+                        android:height="60dp"
+                        />
+                    <gradient
+                        android:endColor="#E5535D"
+                        android:startColor="#5B0C08"
+                        android:angle="270" />
+                    <corners
+                        android:radius="50dp"/>
+                    <padding
+                        android:left="0dp"
+                        android:top="0dp"
+                        android:right="0dp"
+                        android:bottom="0dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

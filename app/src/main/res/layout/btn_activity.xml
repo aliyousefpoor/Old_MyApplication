@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#111"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="188dp"
+        android:text="@string/bio"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:layout_weight="0.89"
+        android:padding="20dp"
+
+        />
+
+    <![CDATA[
+
+
+
+    (ImageView) findViewById(R.id.yourimageviewid);
+        image.setImageResource(R.drawable.imagename);
+        />
+
+
+]]>
+</LinearLayout>
